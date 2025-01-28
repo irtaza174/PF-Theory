@@ -1,0 +1,101 @@
+,Transaction ID,Item,Quantity,Price Per Unit,Total Spent,Payment Method,Location,Transaction Date,final_price
+0,TXN_1961373,Coffee,2.0,2.0,4,Credit Card,Takeaway,9/8/2023,2.0
+1,TXN_4977031,Cake,4.0,3.0,12,Cash,In-store,5/16/2023,3.0
+2,TXN_4271903,Cookie,4.0,1.0,ERROR,Credit Card,In-store,7/19/2023,1.0
+3,TXN_7034554,Salad,2.0,5.0,10,UNKNOWN,UNKNOWN,4/27/2023,5.0
+4,TXN_3160411,Coffee,2.0,2.0,4,Digital Wallet,In-store,6/11/2023,2.0
+5,TXN_2602893,Smoothie,5.0,3.0,20,Credit Card,,3/31/2023,3.0
+6,TXN_4433211,UNKNOWN,3.0,4.0,9,ERROR,Takeaway,10/6/2023,4.0
+7,TXN_6699534,Sandwich,4.0,3.0,16,Cash,UNKNOWN,10/28/2023,3.0
+8,TXN_4717867,,5.0,4.0,15,,Takeaway,7/28/2023,4.0
+9,TXN_2064365,Sandwich,5.0,5.0,20,,In-store,12/31/2023,5.0
+10,TXN_2548360,Salad,5.0,4.0,25,Cash,Takeaway,11/7/2023,4.0
+11,TXN_3051279,Sandwich,2.0,4.0,8,Credit Card,Takeaway,ERROR,4.0
+12,TXN_7619095,Sandwich,2.0,1.0,8,Cash,In-store,5/3/2023,1.0
+13,TXN_9437049,Cookie,5.0,1.5,5,,Takeaway,6/1/2023,1.5
+14,TXN_8915701,ERROR,2.0,5.0,3,,In-store,3/21/2023,5.0
+15,TXN_2847255,Salad,3.0,4.0,15,Credit Card,In-store,11/15/2023,4.0
+16,TXN_3765707,Sandwich,1.0,3.0,4,,,6/10/2023,3.0
+17,TXN_6769710,Juice,2.0,3.0,6,Cash,In-store,2/24/2023,3.0
+18,TXN_8876618,Cake,5.0,3.0,15,Cash,ERROR,3/25/2023,3.0
+19,TXN_3709394,Juice,4.0,4.0,12,Cash,Takeaway,1/15/2023,4.0
+20,TXN_3522028,Smoothie,,4.0,20,Cash,In-store,4/4/2023,4.0
+21,TXN_3567645,Smoothie,4.0,4.0,16,Credit Card,Takeaway,3/30/2023,4.0
+22,TXN_5132361,Sandwich,3.0,4.0,12,Digital Wallet,Takeaway,12/1/2023,4.0
+23,TXN_2616390,Sandwich,2.0,4.0,8,,,9/18/2023,4.0
+24,TXN_9400181,Sandwich,5.0,4.0,20,Cash,In-store,6/3/2023,4.0
+25,TXN_7958992,Smoothie,3.0,1.0,,UNKNOWN,UNKNOWN,12/13/2023,1.0
+26,TXN_5183041,Cookie,5.0,3.0,5,Credit Card,In-store,4/20/2023,3.0
+27,TXN_5695074,Juice,4.0,4.0,12,Credit Card,Takeaway,4/10/2023,4.0
+28,TXN_8467949,Smoothie,5.0,3.0,20,Credit Card,,3/11/2023,3.0
+29,TXN_7640952,Cake,4.0,2.0,12,Digital Wallet,Takeaway,ERROR,2.0
+30,TXN_1736287,,5.0,1.0,10,Digital Wallet,,6/2/2023,1.0
+31,TXN_8927252,UNKNOWN,2.0,4.0,ERROR,Credit Card,ERROR,11/6/2023,4.0
+32,TXN_9677376,Smoothie,4.0,1.0,16,,In-store,8/15/2023,1.0
+33,TXN_7710508,UNKNOWN,5.0,4.0,5,Cash,,ERROR,4.0
+34,TXN_8853997,Smoothie,2.0,4.0,8,Digital Wallet,Takeaway,10/9/2023,4.0
+35,TXN_9130559,Sandwich,1.0,3.0,4,Credit Card,UNKNOWN,5/28/2023,3.0
+36,TXN_6855453,UNKNOWN,4.0,5.0,12,,In-store,7/17/2023,5.0
+37,TXN_1080432,Salad,2.0,4.0,10,Credit Card,In-store,4/29/2023,4.0
+38,TXN_2655815,Smoothie,4.0,2.0,16,,Takeaway,6/8/2023,2.0
+39,TXN_6688524,Coffee,4.0,4.0,8,ERROR,,6/29/2023,4.0
+40,TXN_2083138,Smoothie,3.0,4.0,12,,In-store,4/17/2023,4.0
+41,TXN_2427584,Sandwich,4.0,1.5,16,,Takeaway,12/22/2023,1.5
+42,TXN_6650263,Tea,2.0,3.0,UNKNOWN,,Takeaway,1/10/2023,3.0
+43,TXN_9620080,Juice,4.0,1.0,12,,Takeaway,10/2/2023,1.0
+44,TXN_1491578,Cookie,2.0,5.0,2,,,2/23/2023,5.0
+45,TXN_5455792,Salad,3.0,3.0,15,Cash,,3/22/2023,3.0
+46,TXN_8078640,Juice,4.0,3.0,12,Digital Wallet,In-store,11/3/2023,3.0
+47,TXN_9499313,Juice,5.0,3.0,15,,,3/2/2023,3.0
+48,TXN_8201146,Juice,5.0,3.0,15,Cash,,6/26/2023,3.0
+49,TXN_8230936,Cake,3.0,3.0,9,,ERROR,5/2/2023,3.0
+50,TXN_7742742,Cake,5.0,5.0,15,,Takeaway,9/5/2023,5.0
+51,TXN_6342161,Salad,5.0,5.0,25,ERROR,Takeaway,1/8/2023,5.0
+52,TXN_8914892,UNKNOWN,5.0,4.0,25,Digital Wallet,,3/15/2023,4.0
+53,TXN_3363746,Smoothie,3.0,4.0,12,Credit Card,,11/25/2023,4.0
+54,TXN_8614868,Smoothie,5.0,1.0,20,Digital Wallet,Takeaway,12/5/2023,1.0
+55,TXN_5522862,Cookie,,,2,Credit Card,Takeaway,3/19/2023,3.1614583333333335
+56,TXN_3578141,Cake,5.0,3.0,15,,Takeaway,6/27/2023,3.0
+57,TXN_2080895,Cake,,4.0,3,Digital Wallet,In-store,4/19/2023,4.0
+58,TXN_6421134,Sandwich,4.0,3.0,16,Cash,Takeaway,11/3/2023,3.0
+59,TXN_8813311,Juice,5.0,5.0,15,,In-store,10/7/2023,5.0
+60,TXN_9023317,Salad,1.0,3.0,5,,,9/30/2023,3.0
+61,TXN_8051289,,1.0,4.0,3,,In-store,10/9/2023,4.0
+62,TXN_2537617,Sandwich,1.0,5.0,4,Cash,,5/27/2023,5.0
+63,TXN_9099694,UNKNOWN,3.0,4.0,15,,Takeaway,11/18/2023,4.0
+64,TXN_9230615,Smoothie,4.0,,16,Digital Wallet,,6/1/2023,3.1614583333333335
+65,TXN_4987129,Sandwich,3.0,3.0,,,In-store,10/20/2023,3.0
+66,TXN_8501819,Juice,,1.0,6,Cash,,3/30/2023,1.0
+67,TXN_3068204,Cookie,1.0,,1,Credit Card,Takeaway,10/3/2023,3.1614583333333335
+68,TXN_8427104,Salad,2.0,3.0,10,,In-store,10/27/2023,3.0
+69,TXN_8471743,ERROR,5.0,1.5,15,Digital Wallet,In-store,4/6/2023,1.5
+70,TXN_2621580,Tea,2.0,3.0,3,Cash,In-store,3/22/2023,3.0
+71,TXN_4726376,Cake,2.0,1.0,6,Credit Card,In-store,1/31/2023,1.0
+72,TXN_6044979,,1.0,5.0,1,Cash,In-store,12/8/2023,5.0
+73,TXN_4238417,Salad,2.0,4.0,10,,ERROR,6/19/2023,4.0
+74,TXN_1900620,Smoothie,2.0,2.0,8,Credit Card,ERROR,12/14/2023,2.0
+75,TXN_6420335,Coffee,1.0,4.0,2,Cash,Takeaway,7/16/2023,4.0
+76,TXN_3858209,Sandwich,4.0,5.0,16,Cash,,2/22/2023,5.0
+77,TXN_2091733,Salad,1.0,1.5,5,,In-store,,1.5
+78,TXN_8735480,Tea,5.0,3.0,7.5,Cash,,6/2/2023,3.0
+79,TXN_3829165,Juice,4.0,2.0,12,Cash,In-store,6/15/2023,2.0
+80,TXN_3748616,Coffee,2.0,4.0,4,Credit Card,In-store,12/9/2023,4.0
+81,TXN_1993289,Sandwich,2.0,1.0,8,,In-store,4/18/2023,1.0
+82,TXN_2123367,Cookie,2.0,3.0,2,,,11/7/2023,3.0
+83,TXN_5266394,Cake,3.0,3.0,9,Cash,In-store,10/28/2023,3.0
+84,TXN_5107946,Cake,4.0,,12,Credit Card,,12/22/2023,3.1614583333333335
+85,TXN_8035512,Tea,3.0,3.0,4.5,Cash,UNKNOWN,10/29/2023,3.0
+86,TXN_8718498,Cake,5.0,1.0,15,Credit Card,ERROR,4/30/2023,1.0
+87,TXN_3955361,Cookie,5.0,5.0,5,,Takeaway,4/2/2023,5.0
+88,TXN_9487821,ERROR,1.0,1.0,5,Digital Wallet,Takeaway,5/24/2023,1.0
+89,TXN_4132730,,5.0,1.5,5,,In-store,3/12/2023,1.5
+90,TXN_8976658,Tea,2.0,3.0,3,Credit Card,In-store,8/16/2023,3.0
+91,TXN_5455936,UNKNOWN,5.0,3.0,15,,In-store,10/28/2023,3.0
+92,TXN_2725602,Juice,5.0,2.0,15,Credit Card,,9/10/2023,2.0
+93,TXN_3011323,Coffee,3.0,3.0,6,Credit Card,,3/7/2023,3.0
+94,TXN_6289610,Juice,3.0,5.0,UNKNOWN,Cash,Takeaway,8/7/2023,5.0
+95,TXN_8268061,Salad,3.0,5.0,15,ERROR,Takeaway,8/20/2023,5.0
+96,TXN_5220895,Salad,5.0,2.0,25,Cash,In-store,6/10/2023,2.0
+97,TXN_3085509,Coffee,4.0,3.0,8,Digital Wallet,In-store,4/15/2023,3.0
+98,TXN_9999113,Juice,4.0,2.0,12,Cash,Takeaway,5/27/2023,2.0
+99,,Coffee,4.0,5.0,8,Cash,In-store,7/25/2023,5.0
